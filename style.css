@@ -188,3 +188,17 @@ header{
     margin-top: 25px;
     color: rgba(0, 0, 0, 0.5);
 }
+
+#section-three{
+    height: 400px;
+}
+
+.three-container{
+    float: left;
+    width: 50%;
+    margin: 35px auto;
+}
+
+#three-content{
+    margin-top: 150px;
+}
